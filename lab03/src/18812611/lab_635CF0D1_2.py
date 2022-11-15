@@ -1,7 +1,6 @@
 def answer():
-    ret = "Hello\nMary\nHello\tMary"
+    ret = "\" \\ \" is the backslash"
     # START: You code here  
-   
     # END: You code here
     return ret
 

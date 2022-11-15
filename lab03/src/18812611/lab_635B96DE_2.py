@@ -1,7 +1,6 @@
 def answer():
-    ret = "Hello\nMary\nHello\tMary"
-    # START: You code here  
-   
+    ret = ""
+    # START: You code here
     # END: You code here
     return ret
 
