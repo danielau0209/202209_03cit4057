@@ -1,17 +1,13 @@
 class ClassManual: 
 
     def __init__(self,name,leg_count): 
-        self._name = name
-        self._leg_count = leg_count
-        self.__dna = "ACGT"
 
     def eat(self): 
-        print("{} is now eating".format(self._name))
+        
     def walk(self): 
-        print("{} is now walking".format(self._name))
 
     def show_genome(self):
-        print("{} DNA: {}".format(self._name, self.__dna))
+
     def __cellsplit(self):
 
 def main():
